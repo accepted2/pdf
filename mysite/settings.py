@@ -27,7 +27,7 @@ SECRET_KEY = "django-insecure-=(-6xreqa9=!0)w)nahf$4(foxld^)pxisiwxfkhne=-6*)m8$
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS = ["https://*"]
+CSRF_TRUSTED_ORIGINS = ["https://pdf-szls.onrender.com"]
 
 # Application definition
 
